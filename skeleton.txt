@@ -1,0 +1,4 @@
+1. Initialize Express and the needed modules
+Server.js renders the initial page
+Server.js routes the form data and processes.
+Server.js renders the result page
